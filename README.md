@@ -1,8 +1,12 @@
-## Kɑibin是谁？
+# Kɑibin是谁？
 
 浙江温州（没错，江南皮革厂地区）一个中学生。
 
-## 联系方式
+# 未声明内容的授权
+
+由GitHub认证的本账户所作出的commits，在repo未声明LICENSE的情况下，以[YKBPL.SRMB协议](https://kaibinyang.com/ykbpl)授权。
+
+# 联系方式
 
 你可以在[知乎](https://www.zhihu.com/people/SkyYkb)和[GitHub（别点，这是个黑洞）](https://github.com/SkyYkb)找到我。也可以发送电邮到[rat.haven.0h@icloud.com](mailto:rat.haven.0h@icloud.com)。
 
@@ -15,7 +19,7 @@ uid           [ unknown] Kaibin Yang (GitHub no-reply email.) <44992049+SkyYkb@u
 sub   cv25519 2021-07-06 [E]
 ```
 
-## 诶发的电邮你怎么不回复呢？
+# 诶发的电邮你怎么不回复呢？
 
 我想回我肯定回（其实大多数我都会回，毕竟很少有人给我扔邮件，嘻嘻）。不回复也有可能是没看到，原因包括但不限于：
 
