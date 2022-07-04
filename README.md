@@ -1,3 +1,7 @@
+**注意，不要相信此账号作出的任何没有GitHub认证签名的commits。**
+
+**Caution. Do NOT trust any commit without GitHub verified signature by this account.**
+
 # Kɑibin是谁？
 
 浙江温州（没错，江南皮革厂地区）一个中学生。
